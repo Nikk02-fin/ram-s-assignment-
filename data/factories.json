@@ -1,0 +1,511 @@
+[
+    {
+      "id": "A001",
+      "name": "Dhaka Denim Works",
+      "product_types": ["jeans", "apparel"],
+      "materials": ["denim", "cotton"],
+      "moq_min": 3000,
+      "geography": "Bangladesh",
+      "certifications": ["BSCI", "ISO9001"],
+      "cost_tier": "low"
+    },
+    {
+      "id": "A002",
+      "name": "BlueRiver Apparel",
+      "product_types": ["jeans", "fashion"],
+      "materials": ["denim", "stretch_denim"],
+      "moq_min": 2000,
+      "geography": "Bangladesh",
+      "certifications": ["WRAP", "BSCI"],
+      "cost_tier": "low"
+    },
+    {
+      "id": "A003",
+      "name": "Tirupur Knit Collective",
+      "product_types": ["apparel", "fashion"],
+      "materials": ["cotton", "organic_cotton"],
+      "moq_min": 800,
+      "geography": "India",
+      "certifications": ["GOTS", "ISO9001"],
+      "cost_tier": "low"
+    },
+    {
+      "id": "A004",
+      "name": "Jaipur Fashion Studio",
+      "product_types": ["fashion", "jackets"],
+      "materials": ["cotton", "linen"],
+      "moq_min": 500,
+      "geography": "India",
+      "certifications": ["SEDEX"],
+      "cost_tier": "medium"
+    },
+    {
+      "id": "A005",
+      "name": "Guangzhou Denim Co",
+      "product_types": ["jeans"],
+      "materials": ["denim", "poly_denim"],
+      "moq_min": 1500,
+      "geography": "China",
+      "certifications": ["ISO9001"],
+      "cost_tier": "low"
+    },
+    {
+      "id": "A006",
+      "name": "Shenzhen Fashion Manufacturing",
+      "product_types": ["fashion", "jackets"],
+      "materials": ["polyester", "nylon"],
+      "moq_min": 1000,
+      "geography": "China",
+      "certifications": ["ISO9001", "BSCI"],
+      "cost_tier": "medium"
+    },
+    {
+      "id": "A007",
+      "name": "Ho Chi Minh Apparel Group",
+      "product_types": ["apparel", "fashion"],
+      "materials": ["cotton", "polyester"],
+      "moq_min": 700,
+      "geography": "Vietnam",
+      "certifications": ["WRAP", "BSCI"],
+      "cost_tier": "medium"
+    },
+    {
+      "id": "A008",
+      "name": "Saigon Denim Export",
+      "product_types": ["jeans"],
+      "materials": ["denim"],
+      "moq_min": 1200,
+      "geography": "Vietnam",
+      "certifications": ["ISO9001"],
+      "cost_tier": "medium"
+    },
+    {
+      "id": "A009",
+      "name": "Istanbul Outerwear",
+      "product_types": ["jackets"],
+      "materials": ["leather", "polyester"],
+      "moq_min": 400,
+      "geography": "Turkey",
+      "certifications": ["SEDEX"],
+      "cost_tier": "medium"
+    },
+    {
+      "id": "A010",
+      "name": "Ankara Fashion Works",
+      "product_types": ["fashion", "apparel"],
+      "materials": ["cotton", "viscose"],
+      "moq_min": 600,
+      "geography": "Turkey",
+      "certifications": ["ISO9001"],
+      "cost_tier": "medium"
+    },
+  
+    {
+      "id": "A011",
+      "name": "Portugal Premium Apparel",
+      "product_types": ["fashion", "jackets"],
+      "materials": ["organic_cotton", "wool"],
+      "moq_min": 300,
+      "geography": "Europe",
+      "certifications": ["GOTS", "OEKO-TEX"],
+      "cost_tier": "high"
+    },
+    {
+      "id": "A012",
+      "name": "Milan Fashion Atelier",
+      "product_types": ["fashion"],
+      "materials": ["silk", "wool"],
+      "moq_min": 200,
+      "geography": "Europe",
+      "certifications": ["OEKO-TEX"],
+      "cost_tier": "high"
+    },
+    {
+      "id": "A013",
+      "name": "Los Angeles Apparel Lab",
+      "product_types": ["fashion", "apparel"],
+      "materials": ["cotton", "fleece"],
+      "moq_min": 250,
+      "geography": "USA",
+      "certifications": ["WRAP"],
+      "cost_tier": "high"
+    },
+    {
+      "id": "A014",
+      "name": "Mexico Denim Collective",
+      "product_types": ["jeans"],
+      "materials": ["denim"],
+      "moq_min": 900,
+      "geography": "Mexico",
+      "certifications": ["ISO9001"],
+      "cost_tier": "medium"
+    },
+    {
+      "id": "A015",
+      "name": "Peru Organic Apparel",
+      "product_types": ["apparel", "fashion"],
+      "materials": ["organic_cotton"],
+      "moq_min": 500,
+      "geography": "Peru",
+      "certifications": ["GOTS", "FairTrade"],
+      "cost_tier": "medium"
+    },
+  
+    {
+      "id": "A016",
+      "name": "Sri Lanka Apparel Solutions",
+      "product_types": ["apparel", "fashion"],
+      "materials": ["cotton", "modal"],
+      "moq_min": 700,
+      "geography": "Sri Lanka",
+      "certifications": ["WRAP", "ISO9001"],
+      "cost_tier": "medium"
+    },
+    {
+      "id": "A017",
+      "name": "Phnom Penh Garments",
+      "product_types": ["apparel"],
+      "materials": ["cotton", "polyester"],
+      "moq_min": 1200,
+      "geography": "Cambodia",
+      "certifications": ["BSCI"],
+      "cost_tier": "low"
+    },
+    {
+      "id": "A018",
+      "name": "Jakarta Denim Manufacturing",
+      "product_types": ["jeans"],
+      "materials": ["denim"],
+      "moq_min": 1800,
+      "geography": "Indonesia",
+      "certifications": ["ISO9001"],
+      "cost_tier": "low"
+    },
+    {
+      "id": "A019",
+      "name": "Seoul Fashion Tech",
+      "product_types": ["fashion", "jackets"],
+      "materials": ["nylon", "polyester"],
+      "moq_min": 500,
+      "geography": "South Korea",
+      "certifications": ["ISO9001"],
+      "cost_tier": "high"
+    },
+    {
+      "id": "A020",
+      "name": "Osaka Textile Works",
+      "product_types": ["apparel"],
+      "materials": ["cotton"],
+      "moq_min": 400,
+      "geography": "Japan",
+      "certifications": ["ISO9001"],
+      "cost_tier": "high"
+    },
+  
+    {
+      "id": "A021",
+      "name": "Chittagong Garments",
+      "product_types": ["apparel"],
+      "materials": ["cotton"],
+      "moq_min": 5000,
+      "geography": "Bangladesh",
+      "certifications": ["BSCI"],
+      "cost_tier": "low"
+    },
+    {
+      "id": "A022",
+      "name": "Hanoi Fashion Export",
+      "product_types": ["fashion"],
+      "materials": ["linen", "cotton"],
+      "moq_min": 900,
+      "geography": "Vietnam",
+      "certifications": ["WRAP"],
+      "cost_tier": "medium"
+    },
+    {
+      "id": "A023",
+      "name": "Izmir Denim House",
+      "product_types": ["jeans"],
+      "materials": ["denim"],
+      "moq_min": 600,
+      "geography": "Turkey",
+      "certifications": ["ISO9001"],
+      "cost_tier": "medium"
+    },
+    {
+      "id": "A024",
+      "name": "Barcelona Fashion Collective",
+      "product_types": ["fashion"],
+      "materials": ["viscose", "linen"],
+      "moq_min": 350,
+      "geography": "Europe",
+      "certifications": ["OEKO-TEX"],
+      "cost_tier": "high"
+    },
+    {
+      "id": "A025",
+      "name": "London Outerwear Studio",
+      "product_types": ["jackets"],
+      "materials": ["wool", "polyester"],
+      "moq_min": 250,
+      "geography": "Europe",
+      "certifications": ["SEDEX"],
+      "cost_tier": "high"
+    },
+    {
+        "id": "A026",
+        "name": "Surat Fashion Exports",
+        "product_types": ["fashion", "apparel"],
+        "materials": ["polyester", "georgette"],
+        "moq_min": 1200,
+        "geography": "India",
+        "certifications": ["ISO9001"],
+        "cost_tier": "low"
+    },
+    {
+        "id": "A027",
+        "name": "Ludhiana Winterwear",
+        "product_types": ["jackets", "apparel"],
+        "materials": ["wool", "fleece"],
+        "moq_min": 600,
+        "geography": "India",
+        "certifications": ["ISO9001"],
+        "cost_tier": "medium"
+    },
+    {
+        "id": "A028",
+        "name": "Faisalabad Textile Mills",
+        "product_types": ["apparel"],
+        "materials": ["cotton"],
+        "moq_min": 2500,
+        "geography": "Pakistan",
+        "certifications": ["BSCI"],
+        "cost_tier": "low"
+    },
+    {
+        "id": "A029",
+        "name": "Karachi Denim Industries",
+        "product_types": ["jeans"],
+        "materials": ["denim", "stretch_denim"],
+        "moq_min": 1800,
+        "geography": "Pakistan",
+        "certifications": ["WRAP", "ISO9001"],
+        "cost_tier": "low"
+    },
+    {
+        "id": "A030",
+        "name": "Colombo Apparel Group",
+        "product_types": ["fashion", "apparel"],
+        "materials": ["cotton", "modal"],
+        "moq_min": 900,
+        "geography": "Sri Lanka",
+        "certifications": ["WRAP", "BSCI"],
+        "cost_tier": "medium"
+    },
+    
+    {
+        "id": "A031",
+        "name": "Bangkok Fashion Manufacturing",
+        "product_types": ["fashion"],
+        "materials": ["viscose", "polyester"],
+        "moq_min": 700,
+        "geography": "Thailand",
+        "certifications": ["ISO9001"],
+        "cost_tier": "medium"
+    },
+    {
+        "id": "A032",
+        "name": "Chiang Mai Apparel Studio",
+        "product_types": ["fashion", "apparel"],
+        "materials": ["linen", "cotton"],
+        "moq_min": 400,
+        "geography": "Thailand",
+        "certifications": ["SEDEX"],
+        "cost_tier": "medium"
+    },
+    {
+        "id": "A033",
+        "name": "Bandung Denim Export",
+        "product_types": ["jeans"],
+        "materials": ["denim"],
+        "moq_min": 1600,
+        "geography": "Indonesia",
+        "certifications": ["ISO9001"],
+        "cost_tier": "low"
+    },
+    {
+        "id": "A034",
+        "name": "Jakarta Outerwear Co",
+        "product_types": ["jackets"],
+        "materials": ["nylon", "polyester"],
+        "moq_min": 800,
+        "geography": "Indonesia",
+        "certifications": ["BSCI"],
+        "cost_tier": "medium"
+    },
+    {
+        "id": "A035",
+        "name": "Manila Apparel Exporters",
+        "product_types": ["apparel"],
+        "materials": ["cotton", "polyester"],
+        "moq_min": 1000,
+        "geography": "Philippines",
+        "certifications": ["WRAP"],
+        "cost_tier": "medium"
+    },
+    
+    {
+        "id": "A036",
+        "name": "Hanoi Outerwear Solutions",
+        "product_types": ["jackets"],
+        "materials": ["polyester", "down"],
+        "moq_min": 700,
+        "geography": "Vietnam",
+        "certifications": ["ISO9001", "BSCI"],
+        "cost_tier": "medium"
+    },
+    {
+        "id": "A037",
+        "name": "Ningbo Fashion Group",
+        "product_types": ["fashion", "apparel"],
+        "materials": ["polyester", "cotton"],
+        "moq_min": 1100,
+        "geography": "China",
+        "certifications": ["ISO9001"],
+        "cost_tier": "medium"
+    },
+    {
+        "id": "A038",
+        "name": "Hangzhou Denim Tech",
+        "product_types": ["jeans"],
+        "materials": ["denim", "recycled_denim"],
+        "moq_min": 1300,
+        "geography": "China",
+        "certifications": ["ISO9001", "OEKO-TEX"],
+        "cost_tier": "medium"
+    },
+    {
+        "id": "A039",
+        "name": "Suzhou Apparel Manufacturing",
+        "product_types": ["apparel"],
+        "materials": ["cotton", "bamboo"],
+        "moq_min": 900,
+        "geography": "China",
+        "certifications": ["GOTS"],
+        "cost_tier": "medium"
+    },
+    {
+        "id": "A040",
+        "name": "Qingdao Outerwear Industries",
+        "product_types": ["jackets"],
+        "materials": ["nylon", "polyester"],
+        "moq_min": 1200,
+        "geography": "China",
+        "certifications": ["ISO9001"],
+        "cost_tier": "low"
+    },
+    
+    {
+        "id": "A041",
+        "name": "Cape Town Fashion Works",
+        "product_types": ["fashion"],
+        "materials": ["cotton", "linen"],
+        "moq_min": 600,
+        "geography": "South Africa",
+        "certifications": ["ISO9001"],
+        "cost_tier": "medium"
+    },
+    {
+        "id": "A042",
+        "name": "Casablanca Apparel Group",
+        "product_types": ["apparel"],
+        "materials": ["cotton"],
+        "moq_min": 1400,
+        "geography": "Morocco",
+        "certifications": ["BSCI"],
+        "cost_tier": "low"
+    },
+    {
+        "id": "A043",
+        "name": "Porto Denim Lab",
+        "product_types": ["jeans"],
+        "materials": ["denim"],
+        "moq_min": 350,
+        "geography": "Europe",
+        "certifications": ["OEKO-TEX"],
+        "cost_tier": "high"
+    },
+    {
+        "id": "A044",
+        "name": "Bucharest Apparel Manufacturing",
+        "product_types": ["apparel"],
+        "materials": ["cotton", "polyester"],
+        "moq_min": 500,
+        "geography": "Europe",
+        "certifications": ["ISO9001"],
+        "cost_tier": "medium"
+    },
+    {
+        "id": "A045",
+        "name": "Athens Fashion Studio",
+        "product_types": ["fashion"],
+        "materials": ["linen", "viscose"],
+        "moq_min": 300,
+        "geography": "Europe",
+        "certifications": ["SEDEX"],
+        "cost_tier": "high"
+    },
+    
+    {
+        "id": "A046",
+        "name": "Sao Paulo Denim Export",
+        "product_types": ["jeans"],
+        "materials": ["denim"],
+        "moq_min": 900,
+        "geography": "Brazil",
+        "certifications": ["ISO9001"],
+        "cost_tier": "medium"
+    },
+    {
+        "id": "A047",
+        "name": "Buenos Aires Fashion Collective",
+        "product_types": ["fashion", "apparel"],
+        "materials": ["cotton"],
+        "moq_min": 400,
+        "geography": "Argentina",
+        "certifications": ["ISO9001"],
+        "cost_tier": "medium"
+    },
+    {
+        "id": "A048",
+        "name": "Lima Organic Apparel",
+        "product_types": ["apparel"],
+        "materials": ["organic_cotton"],
+        "moq_min": 600,
+        "geography": "Peru",
+        "certifications": ["GOTS", "FairTrade"],
+        "cost_tier": "medium"
+    },
+    {
+        "id": "A049",
+        "name": "Toronto Fashion Manufacturing",
+        "product_types": ["fashion"],
+        "materials": ["wool", "cotton"],
+        "moq_min": 350,
+        "geography": "Canada",
+        "certifications": ["WRAP"],
+        "cost_tier": "high"
+    },
+    {
+        "id": "A050",
+        "name": "New York Garment District",
+        "product_types": ["fashion", "jackets"],
+        "materials": ["wool", "leather"],
+        "moq_min": 200,
+        "geography": "USA",
+        "certifications": ["WRAP"],
+        "cost_tier": "high"
+    }
+]
+      
+  
